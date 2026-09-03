@@ -10,9 +10,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align: center;" align="center">
+<div align="center">
 
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eualanteixeira&show_icons=true&theme=dracula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eualanteixeira&layout=compact&theme=dracula)
+<img src="https://github-readme-stats-ebon-mu-31.vercel.app/api?username=eualanteixeira&show_icons=true&theme=dracula" height="180">
+<img src="https://github-readme-stats-ebon-mu-31.vercel.app/api/top-langs/?username=eualanteixeira&layout=compact&theme=dracula" height="180">
+
 </div>
 
 # Tecnologias que uso no meu dia
