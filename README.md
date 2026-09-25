@@ -19,7 +19,7 @@
 
 </div>
 
-# Tecnologias que uso no meu dia
+## 🛠️ Technologies I Use Daily
 <div style="display: inline_block"><br>
  <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align="center" alt="Power Automate" height="40" width="40" src="https://img.icons8.com/?&id=kTTt25v6Drpd&format=png&color=000000">
@@ -31,7 +31,7 @@
 
 <div style="display: inline_block"><br>
 
-  # Estou Aprendendo
+## 📚 Currently Learning
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,14 +40,14 @@
   </div>
 
 
-  ## Contatos:
+## 📫 Contact Me
  
 <div> 
 <a href="https://www.linkedin.com/in/eualanteixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.gg/eualanteixeira" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:eualanteixeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- ## Commits
+## 🐍 Contributions
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eualanteixeira/eualanteixeira/output/github-contribution-grid-snake-dark.svg">
