@@ -1,4 +1,6 @@
-## Olá, eu sou o Alan Teixeira 👋
+## Hi, I'm Alan Teixeira 👋
+
+💻 Systems Specialist | SQL | Power Platform | Python | Automation
 
 <!--
 - 🔭 I’m currently working on ...
@@ -12,7 +14,7 @@
 -->
 <div align="center">
 
-<img src="https://github-readme-stats-ebon-mu-31.vercel.app/api?username=eualanteixeira&show_icons=true&theme=dracula" height="180">
+<img src="https://github-readme-stats-ebon-mu-31.vercel.app/api?username=eualanteixeira&show_icons=true&theme=dracula&include_all_commits=true" height="180">
 <img src="https://github-readme-stats-ebon-mu-31.vercel.app/api/top-langs/?username=eualanteixeira&layout=compact&theme=dracula" height="180">
 
 </div>
